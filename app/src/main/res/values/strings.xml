@@ -51,4 +51,5 @@
     <string name="profile_fragment">Hello profile fragment</string>
     <string name="trackings_fragment">Hello trackings fragment</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_company_exists">Company with this name already exists</string>
 </resources>
